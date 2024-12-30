@@ -1,4 +1,4 @@
 using git 
 and learning to put code or writing in github
 git commit is not working 
-cant add any new ccommit
+cant add any new ccommit.
